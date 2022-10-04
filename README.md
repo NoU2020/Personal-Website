@@ -14,9 +14,9 @@ I am a junior studying engineering with concentration in computing. I love learn
 Outside of classes and projects, you can find me singing in a stairwell, playing with cats through a window, or playing games.
 
 ## Education
-Bachleor of Science in Engineering
-Franklin W Olin College of Engineering (2020-2024)
-GPA: 3.62 out of 4.0
+Bachleor of Science in Engineering \\
+Franklin W Olin College of Engineering (2020-2024) \\
+GPA: 3.62 out of 4.0 \\
 Recipient of a 50% merit scholarship
 
 Extracurricular Actitivies:
