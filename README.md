@@ -32,7 +32,7 @@ Extracurricular Actitivies:
 - Owner of DnD Server
 
 ## Projects
-# Coding
+### Coding
 - [Cheems Game](https://github.com/olincollege/cheems-game/blob/main/docs/README.md):
 	Made a motion controlled pokemon inspired game using python
 - [Performance tracker](https://github.com/olincollege/league-performance-analyzer/blob/main/Comp_Essay.ipynb):
@@ -43,7 +43,7 @@ Extracurricular Actitivies:
         Simulated the 2d motion of a triple pendulum using MATLAB
 - [Solar house temperature simulation](https://docs.google.com/document/d/1kxpSMF4g9S6eldswnY0EYNBL6Ne6coXY6i_IWRYSXBo/edit?usp=sharing):
         Created a passive solar house and simulation temperature change over time using MATLAB
-# Technical
+### Technical
 - [Rocky aka the one that walks](https://docs.google.com/document/d/1pa4henhJ0C_qMIdlytwz5s30eXm5KJHSjmJNv5kvWZk/edit?usp=sharing):
         Created a self balancing inverted pendulum using control systems and MATLAB
 - [VR Car](https://olincollege.github.io/pie-2021-03/VRCar/):
@@ -54,7 +54,7 @@ Extracurricular Actitivies:
 	Wrote parametric code for the wheels that navigates a NEATO robot on a bridge of doom
 
 
-# User research and Design:
+### User research and Design:
 - [UXD Adogi](https://drive.google.com/file/d/1ziCPP4O2XVuSco3qBUUYJlIGi6-MlW_S/view?usp=sharing):
 	A user experience design project focused on the pet search and adoption process
 - [Park Rangers Project](https://drive.google.com/drive/folders/1ScRanZuc9mZxOKTZUhXSxzi2utCa20_F?usp=sharing):
@@ -67,7 +67,7 @@ Extracurricular Actitivies:
 	Conducted market research intern of HVAC Department of H&V and estimated market size of an air filtration material in China and reached out to WeWork for potential cooperation to maintain healthy CO2 and PM2.5 ppm levels
 
 
-# Education
+### Education
 -Game Based Learning research:
 	A research on how mixed reality learning environments, specifically game-based learning, support creation of individualized hands-on learning opportunities
 - [Redesigning qea 3](https://drive.google.com/drive/folders/1NterEjpaiqDCD3esMe5Ry9PzUVrNHkNg?usp=sharing):
