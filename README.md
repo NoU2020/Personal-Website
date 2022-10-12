@@ -23,7 +23,7 @@ GPA: 3.62 out of 4.0
 Recipient of a 50% merit scholarship
 
 Extracurricular Actitivies:
-- Assistant of Committee for Clubs and Organizations
+- Assistant Director of Committee for Clubs and Organizations
 - Course assistant for Quantative Engineering Analysis 2
 - Game-Based Learning Research
 - Olin Fire Arts Club Member
